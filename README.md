@@ -55,7 +55,7 @@ python test_quant.py --model deit_base --dataset <YOUR_DATA_DIR> --mode 2
 
 ## Results
 
-Below are the experimental results of our proposed PSAQ-ViT that you should get on ImageNet dataset.
+Below are the experimental results of our proposed PSAQ-ViT that you should get on ImageNet dataset using an RTX 3090 GPU.
 
 | Model          | Prec. | Top-1(%) | Prec. | Top-1(%) |
 |:--------------:|:-----:|:--------:|:-----:|:--------:|
