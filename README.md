@@ -4,7 +4,7 @@
 
 # Patch Similarity Aware Data-Free Quantization for Vision Transformers
 
-This repository contains the official PyTorch implementation for the paper
+This repository contains the official PyTorch implementation for the ECCV 2022 paper
 *["Patch Similarity Aware Data-Free Quantization for Vision Transformers"](https://arxiv.org/abs/2203.02250).* To the best of our knowledge, this is the first work on data-free quantization for vision transformers. Below are instructions for reproducing the results.
 
 ## Installation
