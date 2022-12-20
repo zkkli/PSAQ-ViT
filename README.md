@@ -70,10 +70,11 @@ Below are the experimental results of our proposed PSAQ-ViT that you should get 
 We appreciate it if you would please cite the following paper if you found the implementation useful for your work:
 
 ```bash
-@article{li2022psaqvit,
+@inproceedings{li2022psaqvit,
   title={Patch Similarity Aware Data-Free Quantization for Vision Transformers},
   author={Li, Zhikai and Ma, Liping and Chen, Mengjuan and Xiao, Junrui and Gu, Qingyi},
-  journal={arXiv preprint arXiv:2203.02250},
+  booktitle={European Conference on Computer Vision},
+  pages={154--170},
   year={2022}
 }
 ```
