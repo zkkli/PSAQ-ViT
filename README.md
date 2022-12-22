@@ -11,10 +11,10 @@ This repository contains the official PyTorch implementation for the ECCV 2022 p
 
 - **To install PSAQ-ViT** and develop locally:
   
-  ```bash
-  git clone https://github.com/zkkli/PSAQ-ViT.git
-  cd PSAQ-ViT
-  ```
+```bash
+git clone https://github.com/zkkli/PSAQ-ViT.git
+cd PSAQ-ViT
+```
 
 ## Quantization
 
